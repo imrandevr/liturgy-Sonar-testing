@@ -1,10 +1,0 @@
-
-Gkotlin:S108l")Either remove or fill this block of code.(½ûöÆ8í•Ú±å1
-Gkotlin:S108r")Either remove or fill this block of code.(½ûöÆ8´şæÀå1
-Wkotlin:S1172X"8Use "_" instead of this unused lambda parameter "which".(ø³ªŒ8¶şæÀå1
-Zkotlin:S6615";Remove this variable, which is assigned but never accessed.(Êüé¤8½şæÀå1
-Ekotlin:S6615#"&The value assigned here is never used.(üâ”ı8½şæÀå1
->kotlin:S1128"Remove this unused import.(ìõ²Øıÿÿÿÿ8ÀşæÀå1
-Gkotlin:S1874'"#Deprecated code should not be used.(íğæëıÿÿÿÿ8ÃşæÀå1
-qkotlin:S117:"SRename this local variable to match the regular expression ^`?[_a-z][a-zA-Z0-9]*`?$(»ŠÌÔ8ÅşæÀå1
-~kotlin:S1186F"ZAdd a nested comment explaining why this function is empty or complete the implementation.(Ÿˆí›øÿÿÿÿ8ÉşæÀå1

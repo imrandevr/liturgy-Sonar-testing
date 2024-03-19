@@ -1,15 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÛÙå
-i
-java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´š®±
-®
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ÕÁæ
-
-T
-java:S2168+"9Remove this dangerous instance of double-checked locking.(‚ÈØßøÿÿÿÿ
-G
-java:S1602T",Remove useless curly braces around statement(šıØŞúÿÿÿÿ
-G
-java:S1602o",Remove useless curly braces around statement(šıØŞúÿÿÿÿ
-L
-java:S1068:"1Remove this unused "migration_4_5" private field.(¾ ôüüÿÿÿÿ

@@ -1,16 +1,0 @@
-
-Jkotlin:S1172„"2Use "_" instead of these unused lambda parameters.(è ¼
-<kotlin:S125á"Remove this commented out code.(®§…œıÿÿÿÿ
-7kotlin:S125ê"Remove this commented out code.(ŒâÚÚ
-7kotlin:S125ô"Remove this commented out code.(Ÿß½—
-<kotlin:S125š"Remove this commented out code.(İú·°úÿÿÿÿ
-<kotlin:S125«"Remove this commented out code.(â†‘ùøÿÿÿÿ
-Lkotlin:S1144à"3Remove this unused private "createTabIcons" method.(ÃöñÄ
-Bkotlin:S1481¦")Remove this unused "time" local variable.(©î°
-<kotlin:S1874•"#Deprecated code should not be used.(Ò‡ÙÅ
-Akotlin:S1874ü"#Deprecated code should not be used.(¬ŞòÑşÿÿÿÿ
-jkotlin:S3776O"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ËÃ”ä
-skotlin:S1186½"ZAdd a nested comment explaining why this function is empty or complete the implementation.(‹üÔş
-xkotlin:S1186¿"ZAdd a nested comment explaining why this function is empty or complete the implementation.(óÒÈ¡ıÿÿÿÿ
-Zkotlin:S6510Ø"AMove "return" statements from all branches before "if" statement.(‡—ãß
-skotlin:S3923µ"[Remove this conditional structure or edit its code blocks so that they're not all the same.(î’ùi

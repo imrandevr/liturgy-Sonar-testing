@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SonarLintProjectSettings">
+    <option name="bindingEnabled" value="true" />
     <option name="fileExclusions">
       <list>
         <option value="DIRECTORY:app/build" />
@@ -8,5 +9,7 @@
         <option value="DIRECTORY:app/src/test" />
       </list>
     </option>
+    <option name="projectKey" value="imrandevr_liturgy-Sonar-testing" />
+    <option name="serverId" value="GithubOpenSource" />
   </component>
 </project>

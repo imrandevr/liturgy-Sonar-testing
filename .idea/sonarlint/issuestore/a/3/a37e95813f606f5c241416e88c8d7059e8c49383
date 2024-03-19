@@ -1,12 +1,0 @@
-
-t
-java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÄ´ıùÿÿÿÿ
-t
-java:S2293H"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÄ´ıùÿÿÿÿ
-D
-java:S1121(".Extract the assignment out of this expression.(£ºÉç
-´
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(™÷–ıÿÿÿÿ
-Q	java:S1257"<This block of commented-out lines of code should be removed.(˜«ê
-V	java:S125B"<This block of commented-out lines of code should be removed.(Â²üÿÿÿÿ
-V	java:S125L"<This block of commented-out lines of code should be removed.(º¸³øÿÿÿÿ

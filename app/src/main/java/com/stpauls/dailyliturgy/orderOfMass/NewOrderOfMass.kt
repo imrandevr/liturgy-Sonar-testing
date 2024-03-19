@@ -62,12 +62,14 @@ class NewOrderOfMass : BaseActivity() {
                 return@execute
             }
 
-            RetrofitClient.getRetrofitApi().newOrderOfMass(SharedPref.getUUid(),/*if (items.isNullOrEmpty()) "0" else "1"*/ "0").enqueue(object :
+            // /*if (items.isNullOrEmpty()) "0" else "1"*/
+            RetrofitClient.getRetrofitApi().newOrderOfMass(SharedPref.getUUid(), "0").enqueue(object :
                 Callback<BaseResponse<MutableList<OrderOfMassBean>>?> {
                 override fun onFailure(
                     call: Call<BaseResponse<MutableList<OrderOfMassBean>>?>,
                     t: Throwable
                 ) {
+                    // doesn't require to define anything here
                 }
 
                 override fun onResponse(
