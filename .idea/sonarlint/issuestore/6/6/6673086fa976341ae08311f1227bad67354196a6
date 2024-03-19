@@ -1,0 +1,10 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏQ
+H
+java:S1874"2Remove this use of "Observable"; it is deprecated.(šØµî
+_
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(â¤ö7
+M
+java:S1874"2Remove this use of "setChanged"; it is deprecated.(áÛ×ªüÿÿÿÿ
+M
+java:S1874	"7Remove this use of "notifyObservers"; it is deprecated.(µáˆ

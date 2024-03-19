@@ -1,0 +1,15 @@
+
+k
+java:S1104&"UMake colorCode a static final constant or non-public and provide accessors if needed.(ÎÙþô
+p
+java:S1104*"ZMake readingsString a static final constant or non-public and provide accessors if needed.(Õ•ó±
+k
+java:S1104+"PMake year a static final constant or non-public and provide accessors if needed.(ôé»Ëýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌÓ²öûÿÿÿÿ
+q
+java:S2637-"V"date_in_normal_form" is marked "@NonNull" but is not initialized in this constructor.(ƒòÐ×úÿÿÿÿ
+x	java:S116"^Rename this field "date_in_normal_form" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ôµËýÿÿÿÿ
+{	java:S116"fRename this field "additional_homely_tip_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ßÛÍ
+{	java:S116"aRename this field "additional_homely_tips" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Ñöœüÿÿÿÿ
+j	java:S116"URename this field "today_word" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŸŽÖ
+v	java:S116 "\Rename this field "today_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑîôËúÿÿÿÿ

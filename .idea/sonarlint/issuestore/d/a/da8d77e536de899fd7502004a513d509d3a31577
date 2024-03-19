@@ -1,0 +1,32 @@
+
+`
+java:S2184X"ECast one of the operands of this subtraction operation to a "double".(¿¹À‡ÿÿÿÿÿ
+`
+java:S2184Y"ECast one of the operands of this subtraction operation to a "double".(œ»³Ãşÿÿÿÿ
+`
+java:S2184\"ECast one of the operands of this subtraction operation to a "double".(µÍÂşÿÿÿÿ
+`
+java:S2184]"ECast one of the operands of this subtraction operation to a "double".(£ßƒøÿÿÿÿ
+`
+java:S2184_"ECast one of the operands of this subtraction operation to a "double".(ïÖ¥Àşÿÿÿÿ
+`
+java:S2184`"ECast one of the operands of this subtraction operation to a "double".(é­—Ñúÿÿÿÿ
+U
+java:S1854,":Remove this useless assignment to local variable "action".(òÄ°°ıÿÿÿÿ
+U
+java:S18541":Remove this useless assignment to local variable "action".(Åû¤­şÿÿÿÿ
+U
+java:S18547":Remove this useless assignment to local variable "action".(†´´¾üÿÿÿÿ
+P
+java:S1854<":Remove this useless assignment to local variable "action".(Ëüæî
+U
+java:S1854A":Remove this useless assignment to local variable "action".(¤Øš»øÿÿÿÿ
+@
+java:S1481'"+Remove this unused "action" local variable.(éï™
+
+V	java:S1252"<This block of commented-out lines of code should be removed.(€£¸™ÿÿÿÿÿ
+Q	java:S125l"<This block of commented-out lines of code should be removed.(®ö½
+B
+java:S1068"'Remove this unused "TAG" private field.(óõ°Œıÿÿÿÿ
+?
+java:S1068")Remove this unused "paint" private field.(Ö½ÑÏ

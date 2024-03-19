@@ -1,0 +1,6 @@
+
+o
+java:S1104,"YMake localFilePath a static final constant or non-public and provide accessors if needed.(òÜÕ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´× ¶ûÿÿÿÿ
+;
+java:S1075("&Remove this hard-coded path-delimiter.(‰‚]

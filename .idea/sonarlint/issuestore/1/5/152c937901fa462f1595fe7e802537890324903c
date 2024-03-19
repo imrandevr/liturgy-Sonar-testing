@@ -1,0 +1,17 @@
+
+a	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(ÖˆúÞûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(¶”›Ìþÿÿÿÿ
+@
+java:S1172"+Remove this unused method parameter "text".(¨ä‘
+V	java:S125""<This block of commented-out lines of code should be removed.(¬ÅÜ·úÿÿÿÿ
+X
+java:S1874)"=Remove this use of "queryIntentActivities"; it is deprecated.(µþå’ùÿÿÿÿ
+S
+java:S1874T"=Remove this use of "queryIntentActivities"; it is deprecated.(Ì­Ü×
+N
+java:S1854k"8Remove this useless assignment to local variable "info".(´ž¶
+L
+java:S1874k"6Remove this use of "getPackageInfo"; it is deprecated.(´ž¶
+?
+java:S1481k")Remove this unused "info" local variable.(´ž¶

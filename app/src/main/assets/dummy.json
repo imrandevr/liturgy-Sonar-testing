@@ -1,0 +1,59 @@
+{
+  "date": 1925412525412,
+  "date_in_normal_form": "13 Sept 2020",
+  "additional_homely_tips": "lorem_ipsum",
+  "today_word": "Today's Heading Title",
+  "today_description": "Today's Heading Description Bible Diary App, first of its kind",
+  "color": [1, 2],
+  "plaster": "Plaster Week 1",
+  "readings": [
+    {
+      "order_id": 0,
+      "title": "First Reading",
+      "description": "Bible Diary App, first of its kind, is produced jointly by the Claretian Publications and the Indian Bible Foundation with the mission of enabling you to pray as you go.  We hope you will enjoy the Liturgical Scriptural readings, succinct and thought-provoking reflections, daily prayers, rosary, way of the cross, etc in your spiritual voyage. There are provisions for you to jot down your musings and inspirations, your resolutions, little dialogue with God…We welcome suggestions, content, and ideas towards making this spiritual resource a better instrument to serve God and humanity on a continuous basis.",
+      "audio": ""
+    },
+    {
+      "order_id": 1,
+      "title": "Responsorial Psalm",
+      "description": "Bible Diary App, first of its kind, is produced jointly by the Claretian Publications and the Indian Bible Foundation with the mission of enabling you to pray as you go.  We hope you will enjoy the Liturgical Scriptural readings, succinct and thought-provoking reflections, daily prayers, rosary, way of the cross, etc in your spiritual voyage. There are provisions for you to jot down your musings and inspirations, your resolutions, little dialogue with God…We welcome suggestions, content, and ideas towards making this spiritual resource a better instrument to serve God and humanity on a continuous basis.",
+      "audio": ""
+    },
+    {
+      "order_id": 2,
+      "title": "Second Reading",
+      "description": "Bible Diary App, first of its kind, is produced jointly by the Claretian Publications and the Indian Bible Foundation with the mission of enabling you to pray as you go.  We hope you will enjoy the Liturgical Scriptural readings, succinct and thought-provoking reflections, daily prayers, rosary, way of the cross, etc in your spiritual voyage. There are provisions for you to jot down your musings and inspirations, your resolutions, little dialogue with God…We welcome suggestions, content, and ideas towards making this spiritual resource a better instrument to serve God and humanity on a continuous basis.",
+      "audio": "Second Reading_13_sep.mp3"
+    },
+    {
+      "order_id": 3,
+      "title": "Acclamation",
+      "description": "Bible Diary App, first of its kind, is produced jointly by the Claretian Publications and the Indian Bible Foundation with the mission of enabling you to pray as you go.  We hope you will enjoy the Liturgical Scriptural readings, succinct and thought-provoking reflections, daily prayers, rosary, way of the cross, etc in your spiritual voyage. There are provisions for you to jot down your musings and inspirations, your resolutions, little dialogue with God…We welcome suggestions, content, and ideas towards making this spiritual resource a better instrument to serve God and humanity on a continuous basis.",
+      "audio": ""
+    },
+    {
+      "order_id": 4,
+      "title": "Gospel",
+      "description": "Bible Diary App, first of its kind, is produced jointly by the Claretian Publications and the Indian Bible Foundation with the mission of enabling you to pray as you go.  We hope you will enjoy the Liturgical Scriptural readings, succinct and thought-provoking reflections, daily prayers, rosary, way of the cross, etc in your spiritual voyage. There are provisions for you to jot down your musings and inspirations, your resolutions, little dialogue with God…We welcome suggestions, content, and ideas towards making this spiritual resource a better instrument to serve God and humanity on a continuous basis.",
+      "audio": "Gospel_13_sep.mp3"
+    },
+    {
+      "order_id": 5,
+      "title": "Reflection",
+      "description": "Bible Diary App, first of its kind, is produced jointly by the Claretian Publications and the Indian Bible Foundation with the mission of enabling you to pray as you go.  We hope you will enjoy the Liturgical Scriptural readings, succinct and thought-provoking reflections, daily prayers, rosary, way of the cross, etc in your spiritual voyage. There are provisions for you to jot down your musings and inspirations, your resolutions, little dialogue with God…We welcome suggestions, content, and ideas towards making this spiritual resource a better instrument to serve God and humanity on a continuous basis.",
+      "audio": ""
+    },
+    {
+      "order_id": 6,
+      "title": "Saint of the Day",
+      "description": "Bible Diary App, first of its kind, is produced jointly by the Claretian Publications and the Indian Bible Foundation with the mission of enabling you to pray as you go.  We hope you will enjoy the Liturgical Scriptural readings, succinct and thought-provoking reflections, daily prayers, rosary, way of the cross, etc in your spiritual voyage. There are provisions for you to jot down your musings and inspirations, your resolutions, little dialogue with God…We welcome suggestions, content, and ideas towards making this spiritual resource a better instrument to serve God and humanity on a continuous basis.",
+      "audio": "Gospel_13_sep.mp3"
+    },
+    {
+      "order_id": 7,
+      "title": "Intercessions",
+      "description": "Bible Diary App, first of its kind, is produced jointly by the Claretian Publications and the Indian Bible Foundation with the mission of enabling you to pray as you go.  We hope you will enjoy the Liturgical Scriptural readings, succinct and thought-provoking reflections, daily prayers, rosary, way of the cross, etc in your spiritual voyage. There are provisions for you to jot down your musings and inspirations, your resolutions, little dialogue with God…We welcome suggestions, content, and ideas towards making this spiritual resource a better instrument to serve God and humanity on a continuous basis.",
+      "audio": "Gospel_13_sep.mp3"
+    }
+  ]
+}
